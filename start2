@@ -141,4 +141,5 @@ if [[ ${1} == "sellvpn" ]]; then
 else
   echo -e "${red}Gunakan perintah: ${yellow}start sellvpn${neutral}"
   exit 1
+
 fi
